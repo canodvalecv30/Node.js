@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/canodvalecv30/Node.js/issues"
   },
-  "homepage": "https://github.com/canodvalecv30/Node.js#readme"
+  "homepage": "https://github.com/canodvalecv30/Node.js#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
